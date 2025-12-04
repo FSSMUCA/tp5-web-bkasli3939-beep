@@ -10,3 +10,6 @@ function sommmerecurcive(n){
     if(n===0)return 0;
     returnn+sommmerecurcive(n-1);
 }
+
+
+
